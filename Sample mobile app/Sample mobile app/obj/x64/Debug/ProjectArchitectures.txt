@@ -1,0 +1,1 @@
+D:\Sample mobile app\Sample mobile app\Sample mobile app.csproj;x64

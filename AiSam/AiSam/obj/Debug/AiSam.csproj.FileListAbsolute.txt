@@ -1,0 +1,6 @@
+D:\App1\AiSam\AiSam\bin\Debug\AiSam.exe.config
+D:\App1\AiSam\AiSam\bin\Debug\AiSam.exe
+D:\App1\AiSam\AiSam\bin\Debug\AiSam.pdb
+D:\App1\AiSam\AiSam\obj\Debug\AiSam.csprojResolveAssemblyReference.cache
+D:\App1\AiSam\AiSam\obj\Debug\AiSam.exe
+D:\App1\AiSam\AiSam\obj\Debug\AiSam.pdb

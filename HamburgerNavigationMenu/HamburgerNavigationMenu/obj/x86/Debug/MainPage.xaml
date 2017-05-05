@@ -1,0 +1,84 @@
+﻿<Page
+    x:Class="HamburgerNavigationMenu.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HamburgerNavigationMenu"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            
+        </Grid.RowDefinitions>
+        <RelativePanel>
+            <Button x:ConnectionId='3' Name="HamburgerMenu" FontFamily="Segoe MDL2 Assets"
+                    Content="&#xE700;"
+                    FontSize="24"
+                                               
+                    Foreground="White"
+                    Background="Black"/>
+            
+        </RelativePanel>
+        <SplitView x:ConnectionId='1' Grid.Row="1" Name="MySplitview" DisplayMode="CompactOverlay"
+                   OpenPaneLength="100"
+                   CompactPaneLength="34"
+                   HorizontalAlignment="Left"
+                   Background="Black"
+                   Foreground="White">
+            <SplitView.Pane >
+                <ListBox x:ConnectionId='2' SelectionMode="Single"
+                                                                     
+                     Name="IconsListBox"
+                         Background="Black"
+                         Foreground="White">
+                    <ListBoxItem>
+                        <StackPanel Orientation="Horizontal" >
+                            <TextBlock FontFamily="Segoe MDL2 Assets"
+                                   FontSize="20"
+                                   Text="&#xE72D;" 
+                                       
+                                       />
+                            <TextBlock Text="Share"
+                                   FontSize="12"
+                                        Margin="10,0,0,0"
+                                       VerticalAlignment="Center"/>
+
+
+                        </StackPanel>
+                    </ListBoxItem>
+                    <ListBoxItem>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock FontFamily="Segoe MDL2 Assets"
+                                   FontSize="20"
+                                   Text="&#xE162;"/>
+                            <TextBlock Text="Note"
+                                   FontSize="12"
+                                       Margin="10,0,0,0"
+                                       VerticalAlignment="Center"/>
+
+
+                        </StackPanel>
+                    </ListBoxItem>
+                    <ListBoxItem>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock FontFamily="Segoe MDL2 Assets"
+                                   FontSize="20"
+                                   Text="&#xE713;"/>
+                            <TextBlock Text="Settings"
+                                   FontSize="12"
+                                        Margin="10,0,0,0"
+                                       VerticalAlignment="Center"/>
+
+
+                        </StackPanel>
+                    </ListBoxItem>
+                </ListBox>
+            </SplitView.Pane>
+            
+        </SplitView>
+    </Grid>
+</Page>
+

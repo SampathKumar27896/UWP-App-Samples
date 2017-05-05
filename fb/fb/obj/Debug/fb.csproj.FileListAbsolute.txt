@@ -1,0 +1,8 @@
+D:\fb\fb\bin\Debug\fb.exe
+D:\fb\fb\bin\Debug\fb.pdb
+D:\fb\fb\obj\Debug\fb.csprojResolveAssemblyReference.cache
+D:\fb\fb\obj\Debug\fb.Form1.resources
+D:\fb\fb\obj\Debug\fb.Properties.Resources.resources
+D:\fb\fb\obj\Debug\fb.csproj.GenerateResource.Cache
+D:\fb\fb\obj\Debug\fb.exe
+D:\fb\fb\obj\Debug\fb.pdb

@@ -1,0 +1,1 @@
+D:\WeatherAppBySam\WeatherAppBySam\WeatherAppBySam.csproj;x86

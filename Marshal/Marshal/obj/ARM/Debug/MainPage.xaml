@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="Marshal.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Marshal"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Black">
+        
+        <Image Source="/Assets/Marshall.JPG" Height="1920"  NineGrid="3,3,3,3"/> 
+
+        <RelativePanel>
+           
+            <TextBlock x:ConnectionId='2'
+            Name="Heading_textBlock"
+            Height="Auto"
+            Width="Auto"
+            Text="Marshall Goldsmith"
+            FontFamily="Segoe UI"
+            FontSize="24"
+            FontWeight="Light"
+            Foreground="White"
+            Margin="0,250,0,0"
+            
+                RelativePanel.AlignHorizontalCenterWithPanel="True"
+                RelativePanel.AlignTopWithPanel="True"
+                
+                
+            />
+            <Button x:ConnectionId='3'
+                Name="Login_button"
+                RelativePanel.Below="Heading_textBlock"
+                RelativePanel.AlignHorizontalCenterWith="Heading_textBlock"
+                Height="35"
+                Width="260"
+                Content="Login"
+                Foreground="White"
+                Background="Blue"
+                Opacity="0.5"
+                                          />
+            <Button x:ConnectionId='4'
+                Name="SignUp_button"
+                RelativePanel.Below="Login_button"
+                RelativePanel.AlignHorizontalCenterWith="Login_button"
+                Height="35"
+                Width="260"
+                Content="SignUp"
+                Margin="0,10,0,0"
+                Foreground="White"
+                Background="Green"
+                Opacity="0.5"
+                                           
+                />
+
+        </RelativePanel>
+
+        <Frame x:ConnectionId='1' Name="MyFrame">
+
+        </Frame>
+        
+            
+            
+       
+
+    </Grid>
+    
+</Page>
+

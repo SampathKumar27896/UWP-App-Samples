@@ -1,0 +1,11 @@
+D:\RR\RR\bin\Debug\RR.exe.config
+D:\RR\RR\bin\Debug\RR.exe
+D:\RR\RR\bin\Debug\RR.pdb
+D:\RR\RR\bin\Debug\RR.xml
+D:\RR\RR\obj\Debug\RR.vbprojResolveAssemblyReference.cache
+D:\RR\RR\obj\Debug\RR.Resources.resources
+D:\RR\RR\obj\Debug\RR.vbproj.GenerateResource.Cache
+D:\RR\RR\obj\Debug\RR.exe
+D:\RR\RR\obj\Debug\RR.xml
+D:\RR\RR\obj\Debug\RR.pdb
+D:\RR\RR\obj\Debug\RR.Form1.resources

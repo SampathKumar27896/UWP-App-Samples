@@ -1,0 +1,10 @@
+D:\App1\WindowsA\WindowsA\obj\x86\Debug\App.g.i.cs
+D:\App1\WindowsA\WindowsA\obj\x86\Debug\App.g.cs
+D:\App1\WindowsA\WindowsA\obj\x86\Debug\Views\MainPage.g.i.cs
+D:\App1\WindowsA\WindowsA\obj\x86\Debug\Views\MainPage.g.cs
+D:\App1\WindowsA\WindowsA\obj\x86\Debug\App.xaml
+D:\App1\WindowsA\WindowsA\obj\x86\Debug\Styles\Custom.xaml
+D:\App1\WindowsA\WindowsA\obj\x86\Debug\Views\MainPage.xaml
+D:\App1\WindowsA\WindowsA\obj\x86\Debug\App.xbf
+D:\App1\WindowsA\WindowsA\obj\x86\Debug\Styles\Custom.xbf
+D:\App1\WindowsA\WindowsA\obj\x86\Debug\Views\MainPage.xbf

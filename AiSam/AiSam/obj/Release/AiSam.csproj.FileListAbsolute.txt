@@ -1,0 +1,5 @@
+D:\App1\AiSam\AiSam\bin\Release\AiSam.exe.config
+D:\App1\AiSam\AiSam\bin\Release\AiSam.exe
+D:\App1\AiSam\AiSam\bin\Release\AiSam.pdb
+D:\App1\AiSam\AiSam\obj\Release\AiSam.exe
+D:\App1\AiSam\AiSam\obj\Release\AiSam.pdb

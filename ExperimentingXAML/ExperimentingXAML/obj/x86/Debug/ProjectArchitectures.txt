@@ -1,0 +1,1 @@
+D:\App1\ExperimentingXAML\ExperimentingXAML\ExperimentingXAML.csproj;x86

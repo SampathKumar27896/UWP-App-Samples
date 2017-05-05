@@ -1,0 +1,1 @@
+D:\App1\SampleHello\SampleHello\SampleHello.csproj;x64
